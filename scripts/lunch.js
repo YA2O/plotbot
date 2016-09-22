@@ -5,7 +5,8 @@ module.exports = (robot) => {
     'Texas',
     'Gnällgrottan ... (sadpanda) ',
     'Wiggo',
-    'Dumplings'
+    'Dumplings',
+    'Wraps på dramatens trappa och njuta av utsikten'
   ]
 
   const randomRestaurant = (res) => {
